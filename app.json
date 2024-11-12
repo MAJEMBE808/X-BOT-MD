@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": A-S-W-I-N-S-P-A-R-K-Y:9eeac4ebf6ec311784d78e29b3f37f51",
       "required": true
     },
     "HANDLER": {
