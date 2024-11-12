@@ -8,11 +8,11 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "8d8d9ac9337a0f3802c7eb35e0687f03",
       "required": true
     },
     "HANDLER": {
-      "description": "Enter Prefix For Commands",
+      "description": ".menu",
       "required": false,
       "value": "."
     },
@@ -35,12 +35,12 @@
       "value": "X BOT MD;ASWIN SPARKY"
     },
     "AUDIO_DATA": {
-      "description": "Enter Your Owner Name",
+      "description": "MKULIMA",
       "required": false,
       "value": "X BOT MD;ASWIN SPARKY;https://i.imgur.com/fVCRCYG.jpeg"
     },
     "BOT_INFO": {
-      "description": "Enter Your Owner Number",
+      "description": "+255693784074",
       "required": false,
       "value": "X-BOT-MD;ASWIN SPARKY;https://i.imgur.com/r3GZeiX.jpeg"
     },
